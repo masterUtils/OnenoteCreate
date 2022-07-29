@@ -1,3 +1,4 @@
 {
-    "jupyter.debugJustMyCode": false
+    "jupyter.debugJustMyCode": false,
+    "editor.tabSize": 4
 }
